@@ -1,0 +1,2 @@
+Run this command in cmd as Administrator to disable this useless Exitlag service:
+sc config ExitLagPmService start= disabled
