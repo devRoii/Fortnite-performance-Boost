@@ -1,5 +1,0 @@
--d3d11 -fullscreen -LIMITCLIENTTICKS -LIM -LANPLAY -NOTEXURESTREAMING -USEALLCOREAVAILABLE -high -NOMANSKY -NOSPLASH -noMovies -nofriendfeed -novsync
-
-!!! Use -d3d11 only if you want the old performance mode (which is better than the new one, just wanted to clarify)
-
-    DONT use -fullscreen if you have windoned fullscreen in fortnite settings
